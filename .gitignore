@@ -8,6 +8,7 @@ __pycache__/
 
 # Files and data
 data/
+results/
 *.png
 *.jpg
 *.jpeg
