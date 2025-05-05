@@ -1,4 +1,4 @@
-# Nucleated outside out patch clamp 
+# ChK 
 
 This repository contains analysis of patch-clamp electrophysiological recordings from human and mouse neurons. The goal is to explore how electrophysiological properties relate to species, transcriptomic identity (type, subclass, and class), and recording modality, with a focus on nucleated outside-out patch clamp data.
 
